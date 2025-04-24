@@ -1,0 +1,13 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\pande\Documents\uVision5\LCD16x2\Om_LCD.uvproj
+Project File Date:  03/12/2025
+
+<h2>Output:</h2>
+
+InitXmlModel(): using folder 'C:\Users\pande\AppData\Local\Arm\Packs'
+Parsing RTE Files ... 
+failed.
